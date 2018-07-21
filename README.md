@@ -1,13 +1,13 @@
 # Spring MVC BASIC 
 Spring MVC- 101; A simple project for simple Spring MVC Web Application.
 
-##Feature:
+## Feature:
 Here we present a simple project for understanding Spring MVC Web Application, with presentation of MVC concept. Here we have shown features like,
 - Model-View-Controller project structure. Where we have a Model named- Student, Controller Packages, and Views under WebContent 
 - We have used Jsp as View content for WEB pages
 - We have also shown how to use external resource files like, .properties files to access data rather hard coded value
 
-###Steps to Configure Project:
+### Steps to Configure Project:
 
 1. Open Eclipse IDE installed in your system.
 2. Import the Project in to you system.
